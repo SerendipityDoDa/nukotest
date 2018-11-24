@@ -12,7 +12,7 @@ Download and extract the latest release of https://github.com/nekonium/go-nekoni
 Create a file named genesis_private.json in the gnekonium folder with the following content:
 {
   "config": {
-        "chainId": 2,
+        "chainId": 10,
         "homesteadBlock": 0,
         "eip150Block": 0,
         "eip155Block": 100,
